@@ -1,0 +1,6 @@
+{
+  "name": "Afinds",
+  "description": "High-converting, visually stunning luxury streetwear e-commerce experience with humorous copy, custom carts, wishlists, countdowns, and quick-view features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
